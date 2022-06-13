@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathieuRA
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning rust/rocket
+- 🌱 I’m currently learning rust
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ? contact@mathieu-raisin.fr
 
