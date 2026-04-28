@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MathieuRA
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning rust
+
+- ⚔️ I like penetration testing. [HTB Certified Web Exploitation Specialist](https://academy.hackthebox.com/achievement/badge/cc83133e-c408-11ed-acfc-bea50ffe6cb4)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ? contact@mathieu-raisin.fr
 
