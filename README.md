@@ -4,7 +4,6 @@
 
 - ⚔️ I enjoy Web App penetration testing.
   - [HTB Certified Web Exploitation Specialist](https://academy.hackthebox.com/achievement/badge/cc83133e-c408-11ed-acfc-bea50ffe6cb4)
-  - HTB Certified Web Exploitation Expert (In progress)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ? contact@mathieu-raisin.fr
 
